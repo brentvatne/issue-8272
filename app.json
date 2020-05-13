@@ -1,0 +1,17 @@
+{
+  "name": "ExampleLinking",
+  "displayName": "ExampleLinking",
+  "expo": {
+    "name": "ExampleLinking",
+    "slug": "ExampleLinking",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
